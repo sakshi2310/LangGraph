@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain_openai
+dotenv
+ipykernel
+google-generativeai
+langchain-google-genai
+langchain-community
+ollama
+langchain-core
+streamlit
